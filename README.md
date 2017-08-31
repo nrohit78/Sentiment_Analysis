@@ -1,4 +1,4 @@
-# My Project Title
+# MCM PRACTICUM
 
 This is a template for MCM practicums.  Please read these instructions carefully.
 
