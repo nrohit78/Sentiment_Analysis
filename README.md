@@ -1,6 +1,6 @@
 # My Project Title
 
-This is a template for CA400 projects.  Please read these instructions carefully.
+This is a template for MCM practicums.  Please read these instructions carefully.
 
 This file is written in
 [markdown](https://guides.github.com/features/mastering-markdown/).  Markdown
@@ -14,14 +14,14 @@ You *must* do the following:
 
 2 - Rename your fork using the format (all lower case letters)
 
-    2018-ca400-username
+    2018-mcm-username
 
 replacing `username` with your School of Computing login name.
 
 For example, if Stephen Blott were to be doing a fourth-year project, he would rename
 his repo as:
 
- 2018-ca400-sblott
+ 2018-mcm-sblott
 
 You can rename your repo by selecting *Edit Project* from the drop-down menu
 (with a gear icon) on the top right of your project's home page.  Change the
