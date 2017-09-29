@@ -15,7 +15,7 @@ You *must* do the following:
 2 - There is no need to rename your fork but if you wish to do so please use 
      settings (https://gitlab.computing.dcu.ie/username/2018-mcm-XXXX/edit)
      Advanced (Expand This) 
-     settings.
+     Then change the "Rename repository" field with
 
      2018-mcm-username
 
