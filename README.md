@@ -12,7 +12,9 @@ You *must* do the following:
 
 1 - Fork this repo.
 
-2 - Rename your fork using the format (all lower case letters)
+2 - There is no need to rename your fork but if you wish to do so please
+     https://gitlab.computing.dcu.ie/amccarren/2018-mcm-XXXX/edit and advanced 
+     settings.
 
     2018-mcm-username
 
@@ -23,9 +25,6 @@ his repo as:
 
  2018-mcm-sblott
 
-You can rename your repo by selecting *Edit Project* from the drop-down menu
-(with a gear icon) on the top right of your project's home page.  Change the
-*Project name* field **and** the *Path*.
 
 You should also update the *Project description*.
 
