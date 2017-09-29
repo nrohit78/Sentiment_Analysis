@@ -12,11 +12,12 @@ You *must* do the following:
 
 1 - Fork this repo.
 
-2 - There is no need to rename your fork but if you wish to do so please
-     https://gitlab.computing.dcu.ie/amccarren/2018-mcm-XXXX/edit and advanced 
+2 - There is no need to rename your fork but if you wish to do so please use 
+     settings (https://gitlab.computing.dcu.ie/username/2018-mcm-XXXX/edit)
+     and advanced 
      settings.
 
-    2018-mcm-username
+     2018-mcm-username
 
 replacing `username` with your School of Computing login name.
 
