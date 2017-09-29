@@ -14,7 +14,7 @@ You *must* do the following:
 
 2 - There is no need to rename your fork but if you wish to do so please use 
      settings (https://gitlab.computing.dcu.ie/username/2018-mcm-XXXX/edit)
-     and advanced 
+     Advanced (Expand This) 
      settings.
 
      2018-mcm-username
