@@ -17,14 +17,14 @@ You *must* do the following:
      Advanced (Expand This) 
      Then change the "Rename repository" field with
 
-     2018-mcm-username
+     2019-mcm-username
 
 replacing `username` with your School of Computing login name.
 
-For example, if Stephen Blott were to be doing a fourth-year project, he would rename
+For example, if Stephen Blott were to be doing an MCM practicum, he would rename
 his repo as:
 
- 2018-mcm-sblott
+ 2019-mcm-sblott
 
 
 You should also update the *Project description*.
