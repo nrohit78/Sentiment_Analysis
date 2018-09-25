@@ -1,10 +1,7 @@
 All of your documentation should be placed in subdirectories of this directory.
 
 - Use the `proposal` sub-directory for your project proposal.
-- Use the `functional-spec` sub-directory for your functional specification.
-- Use the `blog` sub-directory for your blog.
 - Use the `documentation` sub-directory for your user manual and technical documentation.
-- Use the `video-walk-through` sub-directory for you video walk through.
 
 There are additional instructions in each of those sub-directories.  Please read them.
 
