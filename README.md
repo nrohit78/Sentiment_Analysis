@@ -22,7 +22,7 @@ replacing `username` with your School of Computing login name.
 For example, if Stephen Blott were to be doing an MCM practicum, he would rename
 his repo as:
 
- 2019-mcm-sblott
+     2019-mcm-sblott
 
 
 You should also update the *Project description*.
