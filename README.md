@@ -12,10 +12,8 @@ You *must* do the following:
 
 1 - Fork this repo.
 
-2 - There is no need to rename your fork but if you wish to do so please use 
-     settings (https://gitlab.computing.dcu.ie/username/2019-mcm-XXXX/edit)
-     Advanced (Expand This) 
-     Then change the "Rename repository" field with
+2 - There is no need to rename your fork but if you wish to do so please use
+     the format:
 
      2019-mcm-username
 
@@ -29,14 +27,11 @@ his repo as:
 
 You should also update the *Project description*.
 
-3 - This directory has two sub-directories.
+3 - This directory has two important sub-directories.
 
 - All of your source code should be placed in the `src` sub-directory.
 
 - All of your documentation should be placed in the `docs` sub-directory.
-
-- Your project blog should be placed in the `blog` sub-directory. 
-
 
 4 - There is further important documentation in the `docs` directory.  Read that next.
 
