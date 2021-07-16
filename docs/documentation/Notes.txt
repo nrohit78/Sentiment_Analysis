@@ -1,4 +1,4 @@
 - We are normalising it by using 50 records across all categories.
-- Check the EXACT number of records that we have for each category.
+- Check the EXACT number of records that we have for each category. Also, positive and negative records.
 - Amazon Data Set
 	- For amazon, we remove records that are related to tv shows and entertainment because that overlaps with IMDB
