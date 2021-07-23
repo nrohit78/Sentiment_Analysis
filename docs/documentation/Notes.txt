@@ -2,3 +2,21 @@
 - Check the EXACT number of records that we have for each category. Also, positive and negative records.
 - Amazon Data Set
 	- For amazon, we remove records that are related to tv shows and entertainment because that overlaps with IMDB
+For the paper:
+	- Remove Dr. Foster's name from the paper.
+	- At the end of the into, mention what your findings.
+	- Check referecing formats again, use only surnam,es.
+	- whenever you refer a library, metion that in the footnote with the url
+	- Dont mention polarity in lit review, xang wala part me
+	- Use words result suggests instead of saying shows
+	- Intorduce the acronym first (SVM) and then use it everywhere. Be consistent. 
+	- Footnotes for URL of the dataset and expand this section.
+	- Remove the part which mentions it testing set and rtaining set should have the same words in preprocessings section. 
+	- Mention the lexion/dictionary used in the formula based method. Add a tools and resources section.
+	- For SVM: Explain a bit more on hyperplane and how it works. Elaborate it a bit more. Disctinctly cassifies 
+	- Same for XGBoost
+	- Put the undersampling in the data set section.
+	- Add analysis of why each algorithm is performing better. Maybe lexicon based is picking too few words and too much words.
+	- Maybe add a new analysis section or change the results and 
+	
+	
